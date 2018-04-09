@@ -3,11 +3,11 @@
 }
 
 .guess {
-  height: 75px; 
+  height: 65px; 
   width: 75px; 
   display: inline; 
   border: 1px solid black;
-  font-size: 60px; 
+  font-size: 45px; 
   border-radius: 10%;
   /* padding: 0 25px; */
   background-color: white  
@@ -32,7 +32,9 @@ img {
 
 #app {
   width: 60%; 
-  margin: 50px auto; 
+  height: 70%; 
+  margin: 50px auto;
+  padding: 0 25px; 
   background-color: rgba(256, 256, 256, 0.5);
 }
 
